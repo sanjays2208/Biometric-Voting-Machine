@@ -1,0 +1,1 @@
+venv/\n.venv/\n__pycache__/\n*.py[cod]\ninstance/\n.env\n.DS_Store\n
